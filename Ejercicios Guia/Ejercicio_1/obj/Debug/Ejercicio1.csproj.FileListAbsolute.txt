@@ -1,0 +1,7 @@
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\EjerciciosGuiaUtn\bin\Debug\Ejercicio1.exe.config
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\EjerciciosGuiaUtn\bin\Debug\Ejercicio1.exe
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\EjerciciosGuiaUtn\bin\Debug\Ejercicio1.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\EjerciciosGuiaUtn\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\EjerciciosGuiaUtn\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\EjerciciosGuiaUtn\obj\Debug\Ejercicio1.exe
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\EjerciciosGuiaUtn\obj\Debug\Ejercicio1.pdb
