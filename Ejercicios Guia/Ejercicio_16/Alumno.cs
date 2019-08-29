@@ -26,24 +26,24 @@ namespace Ejercicio_16
             if (this.nota1 > 3 && this.nota2 > 3)
             {
                 Random objNotaFinal = new Random();
-                notaFinal = objNotaFinal.Next(4, 10);
+                this.notaFinal = objNotaFinal.Next(4, 10);
             }
             else
             {
-                notaFinal = -1;
+                this.notaFinal = -1;
             }
         }
         
         public string Mostrar()
         {
             string cadena = "";
-            cadena += "Datos del alumno: " + nombre + " " + apellido+"\n";
-            cadena += "Legajo: "+legajo+"\n";
-            cadena += "Nota 1: " + nota1 + ", Nota 2: " + nota2 + "\n";
+            cadena += "Datos del alumno: " + this.nombre + " " + this.apellido +"\n";
+            cadena += "Legajo: "+ this.legajo +"\n";
+            cadena += "Nota 1: " + this.nota1 + ", Nota 2: " + this.nota2 + "\n";
 
             if (this.notaFinal > 0)
             {
-                cadena += "Nota Final: " + notaFinal + "\n";
+                cadena += "Nota Final: " + this.notaFinal + "\n";
             }
             else
             {
