@@ -39,17 +39,17 @@ namespace Ejercicio_13
             char[] array = bin.ToCharArray();
             // Invierto ya que se va incrementando de derecha a izquierda: 16-8-4-2-1
             Array.Reverse(array);
-            int sum = 0;
+            int acumulador = 0;
 
             for (int i = 0; i < array.Length; i++)
             {
                 if (array[i] == '1')
                 {
                     // Usamos la potencia de 2, según la posición
-                    sum += (int)Math.Pow(2, i); //parseo a int ya que math.pow usa flotante
+                    acumulador += (int)Math.Pow(2, i); //parseo a int ya que math.pow usa flotante
                 }
             }
-            return sum;
+            return acumulador;
         }
     }
 }

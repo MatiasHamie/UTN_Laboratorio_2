@@ -15,27 +15,49 @@ namespace Ejercicio_13
     {
         static void Main(string[] args)
         {
-            int num = 0;
-            string numBin = "";
+            int numeroDecimal = 0, opcion = 0;
+            string numeroBinario = "";
 
-            Console.WriteLine("Ingrese un número en binario..");
-            numBin = Console.ReadLine();
-
-            /*
-            Console.WriteLine("Ingrese un número..");
-
-            while(!int.TryParse(Console.ReadLine(),out num) || num<0)
+            do
             {
-                Console.WriteLine("ERROR, Reingrese el número..");
-            }
-            */
-            //numBin=Conversor.DecimalBinario(num);
-            num = (int)Conversor.BinarioDecimal(numBin);
+                Console.Clear();
+                Console.WriteLine("** MENU CONVERSION **");
+                Console.WriteLine("1 - Decimal a Binario");
+                Console.WriteLine("2 - Binario a Decimal");
+                Console.WriteLine("3 - Salir");
 
-            //Console.WriteLine("Numero Decimal: {0:#,###.00} en Binario es: {1}",num,numBin);
-            Console.WriteLine("Numero Binario: {0} en Decimal es: {1}",numBin,num);
-            Console.ReadKey();
-            
+                if (int.TryParse(Console.ReadLine(), out opcion))
+                {
+                    switch (opcion)
+                    {
+                        case 1:
+                            Console.WriteLine("Ingrese un numero decimal positivo");
+                            if (int.TryParse(Console.ReadLine(), out numeroDecimal))
+                            {
+                                numeroBinario = Conversor.DecimalBinario(numeroDecimal);
+                            }
+                            else
+                            {
+                                Console.WriteLine("ERROR, numero ingresado incorrecto..!");
+                            }
+                            Console.Clear();
+                            Console.WriteLine("Numero Decimal: {0:#,###.00} en Binario es: {1}", numeroDecimal, numeroBinario);
+                            break;
+                        case 2:
+                            Console.WriteLine("Ingrese un numero binario positivo");
+                            numeroBinario = Console.ReadLine();
+                            Conversor.BinarioDecimal(numeroBinario);
+                            Console.Clear();
+                            Console.WriteLine("Numero Binario: {0} en Decimal es: {1}", numeroBinario, numeroDecimal);
+                            break;
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Error, reingrese opcion");
+                }
+                Console.ReadKey();
+            } while (opcion != 3);
         }
     }
 }
