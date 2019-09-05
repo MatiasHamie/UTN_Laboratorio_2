@@ -1,0 +1,7 @@
+D:\VisualStudio\Repaso\Producto\bin\Debug\Producto.exe.config
+D:\VisualStudio\Repaso\Producto\bin\Debug\Producto.exe
+D:\VisualStudio\Repaso\Producto\bin\Debug\Producto.pdb
+D:\VisualStudio\Repaso\Producto\obj\Debug\EjercicioClase5.csprojAssemblyReference.cache
+D:\VisualStudio\Repaso\Producto\obj\Debug\EjercicioClase5.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Repaso\Producto\obj\Debug\Producto.exe
+D:\VisualStudio\Repaso\Producto\obj\Debug\Producto.pdb
