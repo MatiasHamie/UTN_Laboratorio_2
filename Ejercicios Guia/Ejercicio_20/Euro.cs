@@ -8,5 +8,33 @@ namespace Billetes
 {
     class Euro
     {
+        private double cantidad;
+        private static double cotizRespectoDolar;
+
+        private Euro()
+        {
+            cotizRespectoDolar = 1 / 1.16;
+        }
+
+        public Euro(double cantidad)
+        {
+            this.cantidad = cantidad;
+        }
+
+        public Euro(double cantidad, double cotizacion) : this(cantidad)
+        {
+            cotizRespectoDolar = cotizacion;
+        }
+
+        public double GetCantidad()
+        {
+            return this.cantidad;
+        }
+
+        public static double GetCotizacion()
+        {
+            return cotizRespectoDolar;
+        }
+
     }
 }
