@@ -35,5 +35,88 @@ namespace Billetes
         {
             return cotizRespectoDolar;
         }
+
+        //Conversiones
+
+        /*
+         *  Conversion implicita de un double a dolar
+         *  lo que hago es facilitar y escribir menos codigo
+         *  por ej.. en lugar de instanciar objetos de tipo dolar
+         *  en el main, lo que hago es crear una variable y crearla aca
+         */
+        public static implicit operator Pesos(double d)
+        {
+            //Creo un dolar nuevo aca y lo devuelvo ya instanciado
+            return new Pesos(d);
+        }
+
+        //Conversiones explicitas de moneda
+        public static explicit operator Dolar(Pesos p)
+        {
+            //Retornas directamente un peso, que le pasas la cantidad
+            //de Dolares en total
+            return new Dolar(p.cantidad * Dolar.GetCotizacion());
+        }
+
+        public static explicit operator Euro(Pesos p)
+        {
+            return new Euro(p.cantidad * Dolar.GetCotizacion());
+        }
+
+        //Sobrecarga de operadores
+        //Peso - Euro
+        public static bool operator ==(Pesos p, Euro e)
+        {
+            return p.cantidad == e.GetCantidad();
+        }
+
+        public static bool operator !=(Pesos p, Euro e)
+        {
+            return p.cantidad != e.GetCantidad();
+        }
+
+        //Peso - Dolar
+        public static bool operator ==(Pesos p, Dolar d)
+        {
+            return p.cantidad == d.GetCantidad();
+        }
+
+        public static bool operator !=(Pesos p, Dolar d)
+        {
+            return p.cantidad != d.GetCantidad();
+        }
+
+        //Dolar - Dolar
+        public static bool operator ==(Pesos p1, Pesos p2)
+        {
+            return p1.cantidad == p2.GetCantidad();
+        }
+
+        public static bool operator !=(Pesos p1, Pesos p2)
+        {
+            return p1.cantidad != p2.GetCantidad();
+        }
+
+        //Sobrecarga de operadores
+        //Suma y resta de 
+        public static Dolar operator +(Pesos p, Dolar d)
+        {
+            return new Dolar(p.cantidad + ((Dolar)d).GetCantidad());
+        }
+
+        public static Dolar operator -(Pesos p, Dolar d)
+        {
+            return new Dolar(p.cantidad - ((Euro)d).GetCantidad());
+        }
+
+        public static Dolar operator +(Pesos p, Euro e)
+        {
+            return new Dolar(p.cantidad + ((Euro)e).GetCantidad());
+        }
+
+        public static Dolar operator -(Pesos p, Euro e)
+        {
+            return new Dolar(p.cantidad - ((Euro)e).GetCantidad());
+        }
     }
 }

@@ -31,7 +31,7 @@ namespace Billetes
             return this.cantidad;
         }
 
-        public double GetCotizacion()
+        public static double GetCotizacion()
         {
             return Dolar.cotizRespectoDolar;
         }
@@ -101,12 +101,12 @@ namespace Billetes
         //Suma y resta de 
         public static Dolar operator +(Dolar d, Euro e)
         {
-            return new Dolar(d.cantidad + ((Dolar)e).GetCantidad);
+            return new Dolar(d.cantidad + ((Dolar)e).GetCantidad());
         }
 
         public static Dolar operator -(Dolar d, Euro e)
         {
-            return new Dolar(d.cantidad - ((Dolar)e).GetCantidad);
+            return new Dolar(d.cantidad - ((Dolar)e).GetCantidad());
         }
     }
 }
