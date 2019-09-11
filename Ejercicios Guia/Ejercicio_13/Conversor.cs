@@ -8,7 +8,7 @@ namespace Ejercicio_13
 {
     class Conversor
     {
-        public static string DecimalBinario(int num)
+        public static string DecimalBinario(double num)
         {
             string cadena = "";
 
