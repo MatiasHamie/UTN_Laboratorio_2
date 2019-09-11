@@ -65,25 +65,26 @@ namespace Billetes
 
         //Sobrecarga de operadores
         //Dolar - Euro
+        //No olvidar el parseo explicito de dolar a euro o a peso
         public static bool operator ==(Dolar d, Euro e)
         {
-            return d.cantidad == e.GetCantidad();
+            return d.cantidad == (Dolar)e.GetCantidad();
         }
 
         public static bool operator !=(Dolar d, Euro e)
         {
-            return d.cantidad != e.GetCantidad();
+            return d.cantidad != (Dolar)e.GetCantidad();
         }
 
         //Dolar - Pesos
         public static bool operator ==(Dolar d, Pesos p)
         {
-            return d.cantidad == p.GetCantidad();
+            return d.cantidad == (Dolar)p.GetCantidad();
         }
 
         public static bool operator !=(Dolar d, Pesos p)
         {
-            return d.cantidad != p.GetCantidad();
+            return d.cantidad != (Dolar)p.GetCantidad();
         }
 
         //Dolar - Dolar
@@ -107,6 +108,14 @@ namespace Billetes
         public static Dolar operator -(Dolar d, Euro e)
         {
             return new Dolar(d.cantidad - ((Dolar)e).GetCantidad());
+        }
+        public static Dolar operator +(Dolar d, Pesos p)
+        {
+            return new Dolar(d.cantidad + ((Dolar)p).cantidad);
+        }
+        public static Dolar operator -(Dolar d, Pesos p)
+        {
+            return new Dolar(d.cantidad - ((Dolar)p).cantidad);
         }
     }
 }
