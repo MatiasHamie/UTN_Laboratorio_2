@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Billetes
+namespace Moneda
 {
     class Pesos
     {
@@ -34,6 +34,14 @@ namespace Billetes
         public static double GetCotizacion()
         {
             return Pesos.cotizRespectoDolar;
+        }
+
+        public static void SetCotizacion(string strCotizacion)
+        {
+            if (strCotizacion != "")
+            {
+                Pesos.cotizRespectoDolar = double.Parse(strCotizacion);
+            }
         }
 
         //Conversiones
@@ -101,22 +109,22 @@ namespace Billetes
         //Suma y resta de 
         public static Pesos operator +(Pesos p, Dolar d)
         {
-            return new Pesos(p.cantidad + ((Dolar)d).GetCantidad());
+            return new Pesos(p.cantidad + ((Pesos)d).GetCantidad());
         }
 
         public static Pesos operator -(Pesos p, Dolar d)
         {
-            return new Pesos(p.cantidad - ((Euro)d).GetCantidad());
+            return new Pesos(p.cantidad - ((Pesos)d).GetCantidad());
         }
 
         public static Pesos operator +(Pesos p, Euro e)
         {
-            return new Pesos(p.cantidad + ((Euro)e).GetCantidad());
+            return new Pesos(p.cantidad + ((Pesos)e).GetCantidad());
         }
 
         public static Pesos operator -(Pesos p, Euro e)
         {
-            return new Pesos(p.cantidad - ((Euro)e).GetCantidad());
+            return new Pesos(p.cantidad - ((Pesos)e).GetCantidad());
         }
     }
 }
