@@ -13,7 +13,7 @@ namespace Moneda
 
         private Pesos()
         {
-            Pesos.cotizRespectoDolar = 38.33;
+            Pesos.cotizRespectoDolar = 0.023;
         }
 
         public Pesos(double cantidad)
@@ -54,15 +54,15 @@ namespace Moneda
          */
         public static implicit operator Pesos(double d)
         {
-            //Creo un dolar nuevo aca y lo devuelvo ya instanciado
+            //Creo un peso nuevo aca y lo devuelvo ya instanciado
             return new Pesos(d);
         }
 
         //Conversiones explicitas de moneda
         public static explicit operator Dolar(Pesos p)
         {
-            //Retornas directamente un peso, que le pasas la cantidad
-            //de Dolares en total
+            //Retornas directamente un dolar, que le pasas la cantidad
+            //de pesos en total
             return new Dolar(p.cantidad / Pesos.GetCotizacion());
         }
 

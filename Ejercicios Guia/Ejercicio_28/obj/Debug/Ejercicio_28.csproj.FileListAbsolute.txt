@@ -1,0 +1,10 @@
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_28\bin\Debug\Ejercicio_28.exe.config
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_28\bin\Debug\Ejercicio_28.exe
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_28\bin\Debug\Ejercicio_28.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_28\obj\Debug\Ejercicio_28.csprojAssemblyReference.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_28\obj\Debug\Ejercicio_28.formContadorDePalabras.resources
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_28\obj\Debug\Ejercicio_28.Properties.Resources.resources
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_28\obj\Debug\Ejercicio_28.csproj.GenerateResource.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_28\obj\Debug\Ejercicio_28.csproj.CoreCompileInputs.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_28\obj\Debug\Ejercicio_28.exe
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_28\obj\Debug\Ejercicio_28.pdb

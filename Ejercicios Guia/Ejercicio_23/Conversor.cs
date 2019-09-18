@@ -91,12 +91,12 @@ namespace Moneda
             if (txtPeso.Text != "" &&
                 txtCotizacionPeso.Text != "" &&
                 double.Parse(txtPeso.Text) > 0 &&
-                double.Parse(txtCotizacionPeso.Text) > 0)
+                double.Parse(txtCotizacionPeso.Text) > 0)                                                                                                                                                                                        
             {
-                Pesos moneda = new Pesos(double.Parse(txtDolar.Text));
+                Pesos moneda = new Pesos(double.Parse(txtPeso.Text));
 
-                txtPesoAEuro.Text = ((Pesos)moneda).GetCantidad().ToString();
-                txtPesoADolar.Text = ((Pesos)moneda).GetCantidad().ToString();
+                txtPesoAEuro.Text = ((Euro)moneda).GetCantidad().ToString();
+                txtPesoADolar.Text = ((Dolar)moneda).GetCantidad().ToString();
                 txtPesoAPeso.Text = moneda.GetCantidad().ToString();
             }
             else
