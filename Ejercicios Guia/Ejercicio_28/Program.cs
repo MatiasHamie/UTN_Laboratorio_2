@@ -60,13 +60,20 @@ namespace Ejercicio_28
 
             listaDePalabras = ejemploMiDiccionario.ToList();
 
-            //listaDePalabras.Sort();
+            listaDePalabras.Sort(ordenarDiccionario);
 
             for (int i = 0; i < listaDePalabras.Count(); i++)
             {
                 resultadoFinal += ($"Palabra: '{listaDePalabras[i].Key}' Veces: {listaDePalabras[i].Value}\n");
             }
             return resultadoFinal;
+        }
+
+        public static int ordenarDiccionario(KeyValuePair<string, int> x, KeyValuePair<string, int> y)
+        {
+            if (x.Value > y.Value) { return 1; }
+            else if (x.Value == y.Value) { return 0; }
+            else { return -1; }
         }
     }
 }
