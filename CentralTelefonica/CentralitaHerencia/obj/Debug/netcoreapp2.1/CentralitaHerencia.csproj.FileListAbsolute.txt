@@ -1,0 +1,11 @@
+C:\Users\yotut\Desktop\Programming\C#\CentralTelefonica\CentralitaHerencia\bin\Debug\netcoreapp2.1\CentralitaHerencia.deps.json
+C:\Users\yotut\Desktop\Programming\C#\CentralTelefonica\CentralitaHerencia\bin\Debug\netcoreapp2.1\CentralitaHerencia.runtimeconfig.json
+C:\Users\yotut\Desktop\Programming\C#\CentralTelefonica\CentralitaHerencia\bin\Debug\netcoreapp2.1\CentralitaHerencia.runtimeconfig.dev.json
+C:\Users\yotut\Desktop\Programming\C#\CentralTelefonica\CentralitaHerencia\bin\Debug\netcoreapp2.1\CentralitaHerencia.dll
+C:\Users\yotut\Desktop\Programming\C#\CentralTelefonica\CentralitaHerencia\bin\Debug\netcoreapp2.1\CentralitaHerencia.pdb
+C:\Users\yotut\Desktop\Programming\C#\CentralTelefonica\CentralitaHerencia\obj\Debug\netcoreapp2.1\CentralitaHerencia.csprojAssemblyReference.cache
+C:\Users\yotut\Desktop\Programming\C#\CentralTelefonica\CentralitaHerencia\obj\Debug\netcoreapp2.1\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\yotut\Desktop\Programming\C#\CentralTelefonica\CentralitaHerencia\obj\Debug\netcoreapp2.1\CentralitaHerencia.AssemblyInfoInputs.cache
+C:\Users\yotut\Desktop\Programming\C#\CentralTelefonica\CentralitaHerencia\obj\Debug\netcoreapp2.1\CentralitaHerencia.AssemblyInfo.cs
+C:\Users\yotut\Desktop\Programming\C#\CentralTelefonica\CentralitaHerencia\obj\Debug\netcoreapp2.1\CentralitaHerencia.dll
+C:\Users\yotut\Desktop\Programming\C#\CentralTelefonica\CentralitaHerencia\obj\Debug\netcoreapp2.1\CentralitaHerencia.pdb
