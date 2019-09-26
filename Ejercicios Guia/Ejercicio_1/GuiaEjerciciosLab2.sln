@@ -55,6 +55,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_30", "..\Ejercici
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_31", "..\Ejercicio_31\Ejercicio_31.csproj", "{50F8CB3F-2161-4201-AFEE-8DAFE4CACA52}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_37_CentralitaHerencia", "..\..\CentralTelefonica\CentralitaHerencia\Ejercicio_37_CentralitaHerencia.csproj", "{327A87C7-BEC9-4443-990C-B89E7A2C7ADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_34", "..\Ejercicio_34\Ejercicio_34.csproj", "{4E0D268F-C259-4219-BCCF-039845626CB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +169,14 @@ Global
 		{50F8CB3F-2161-4201-AFEE-8DAFE4CACA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50F8CB3F-2161-4201-AFEE-8DAFE4CACA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50F8CB3F-2161-4201-AFEE-8DAFE4CACA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327A87C7-BEC9-4443-990C-B89E7A2C7ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327A87C7-BEC9-4443-990C-B89E7A2C7ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327A87C7-BEC9-4443-990C-B89E7A2C7ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327A87C7-BEC9-4443-990C-B89E7A2C7ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0D268F-C259-4219-BCCF-039845626CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0D268F-C259-4219-BCCF-039845626CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0D268F-C259-4219-BCCF-039845626CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0D268F-C259-4219-BCCF-039845626CB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

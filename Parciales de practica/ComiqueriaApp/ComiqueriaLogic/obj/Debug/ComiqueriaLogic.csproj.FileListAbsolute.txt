@@ -1,0 +1,6 @@
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de ejemplo\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de ejemplo\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de ejemplo\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csprojAssemblyReference.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de ejemplo\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de ejemplo\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de ejemplo\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb

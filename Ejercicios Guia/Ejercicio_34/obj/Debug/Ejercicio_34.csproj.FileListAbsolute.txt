@@ -1,0 +1,2 @@
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_34\obj\Debug\Ejercicio_34.csprojAssemblyReference.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_34\obj\Debug\Ejercicio_34.csproj.CoreCompileInputs.cache
