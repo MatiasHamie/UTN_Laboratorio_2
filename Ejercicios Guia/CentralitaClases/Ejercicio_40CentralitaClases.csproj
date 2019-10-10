@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{64A5DE94-FF5C-47F4-B0CF-1D1C27637CD3}</ProjectGuid>
-    <OutputType>Library</OutputType>
+    <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Ejercicio_40CentralitaClases</RootNamespace>
     <AssemblyName>Ejercicio_40CentralitaClases</AssemblyName>
@@ -30,6 +30,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -50,6 +53,18 @@
     <Compile Include="CentralTelefonica.Designer.cs">
       <DependentUpon>CentralTelefonica.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmLlamador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLlamador.Designer.cs">
+      <DependentUpon>FrmLlamador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMostrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMostrar.Designer.cs">
+      <DependentUpon>FrmMostrar.cs</DependentUpon>
+    </Compile>
     <Compile Include="Llamada.cs" />
     <Compile Include="Local.cs" />
     <Compile Include="Program.cs" />
@@ -59,6 +74,12 @@
   <ItemGroup>
     <EmbeddedResource Include="CentralTelefonica.resx">
       <DependentUpon>CentralTelefonica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLlamador.resx">
+      <DependentUpon>FrmLlamador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMostrar.resx">
+      <DependentUpon>FrmMostrar.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -33,7 +33,7 @@ namespace Ejercicio_40CentralitaClases
         protected virtual string Mostrar()
         {
             StringBuilder stringBuilder = new StringBuilder();
-            stringBuilder.Append("\n[Llamada]-> ");
+            stringBuilder.Append("[Llamada]-> ");
             stringBuilder.AppendFormat("Duración: {0}\n", this.duracion);
             stringBuilder.AppendFormat("Nro. Origen: {0}, Nro Destino: {1}", this.nroOrigen, this.nroDestino);
             //stringBuilder.AppendFormat($"Costo Llamada: {CostoLlamada}");

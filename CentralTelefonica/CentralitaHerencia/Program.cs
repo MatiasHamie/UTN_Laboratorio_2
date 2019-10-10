@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CentralitaHerencia
+namespace Ejercicio_40CentralitaClases
 {
     class Program
     {

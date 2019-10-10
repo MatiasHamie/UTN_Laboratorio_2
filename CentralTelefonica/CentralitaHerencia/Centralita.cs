@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CentralitaHerencia
+namespace Ejercicio_40CentralitaClases
 {
     class Centralita
     {

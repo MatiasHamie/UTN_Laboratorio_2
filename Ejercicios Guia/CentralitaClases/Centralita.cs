@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Ejercicio_40CentralitaClases
 {
-    class Centralita
+    public class Centralita
     {
         #region Campos
         private List<Llamada> listaDeLlamadas;
@@ -78,7 +78,7 @@ namespace Ejercicio_40CentralitaClases
                     auxiliarTipoProvincial = (Provincial)llamadaExtraidaDeLaLista;
                     acumuladorGanancias += auxiliarTipoProvincial.CostoLlamada;
                 }
-                else
+                else if(tipoDeLlamada == Llamada.TipoLlamada.Todas)
                 {
                     //Si el tipo es TODAS, calculo acorde a cada tipo extraido en el momento
                     if (llamadaExtraidaDeLaLista is Local)
@@ -92,6 +92,10 @@ namespace Ejercicio_40CentralitaClases
                         acumuladorGanancias += auxiliarTipoProvincial.CostoLlamada;
                     }
                 }
+                else
+                {
+                    acumuladorGanancias = -1;
+                }
             }
             return acumuladorGanancias;
         }
@@ -102,7 +106,7 @@ namespace Ejercicio_40CentralitaClases
         }
         #endregion
 
-        #region Sobrecarga de operadore
+        #region Sobrecarga de operadores
         public static Centralita operator +(Centralita c, Llamada nuevaLlamada)
         {
             bool esta = false;
