@@ -94,3 +94,35 @@ Ganancias Centralita
 DATASOURCE COMBOBOX
 
 cmbTipoEnumerado.DataSource = Enum.GetValues(typeof(Tipo));
+
+/______________________________________________________________
+
+Agregar al combobox un string
+        public void AgregarAlCmbNombreListas(CLASEPADRE nombrelista)
+        {
+            foreach (Astro astro in planetas)
+            {
+                if(astro is Planeta && planetas.Contains(planeta))
+                {
+                    cmbPlaneta.Items.Add((string)astro);
+                }
+            }
+        }
+
+Indexadores
+La declaración de un indexador luce cómo una propiedad, sólo que:
+Este recibe parámetros.
+La palabra clave this se utiliza para su definición
+class EjemploIndexadores {
+    // Declaro un array
+    private string[] palabras = new string[100];
+
+    // Defino el indexador
+    public string this[int i] {
+            get { return palabras[i]; }
+            set { palabras[i] = value; }
+    }
+}
+EjemploIndexadores ejemplo = new EjemploIndexadores();
+ejemplo[0] = "Hola";
+ejemplo[1] = "Chau";
