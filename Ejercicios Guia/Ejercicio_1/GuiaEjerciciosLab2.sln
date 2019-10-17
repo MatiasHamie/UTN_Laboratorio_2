@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29215.179
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_01", "Ejercicio_01.csproj", "{999F1ADE-0963-4943-9BA4-A9EBA83C3C5D}"
 EndProject
@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_37_CentralitaHere
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_34", "..\Ejercicio_34\Ejercicio_34.csproj", "{4E0D268F-C259-4219-BCCF-039845626CB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_40CentralitaClases", "..\CentralitaClases\Ejercicio_40CentralitaClases.csproj", "{64A5DE94-FF5C-47F4-B0CF-1D1C27637CD3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_40y41CentralitaCExcepciones", "..\CentralitaClases\Ejercicio_40y41CentralitaCExcepciones.csproj", "{64A5DE94-FF5C-47F4-B0CF-1D1C27637CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_42", "..\Ejercicio_42\Ejercicio_42.csproj", "{6F527465-2FD5-49A7-A830-FE1769A12FAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{64A5DE94-FF5C-47F4-B0CF-1D1C27637CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64A5DE94-FF5C-47F4-B0CF-1D1C27637CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64A5DE94-FF5C-47F4-B0CF-1D1C27637CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F527465-2FD5-49A7-A830-FE1769A12FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F527465-2FD5-49A7-A830-FE1769A12FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F527465-2FD5-49A7-A830-FE1769A12FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F527465-2FD5-49A7-A830-FE1769A12FAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

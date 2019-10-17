@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Centralita.cs" />
+    <Compile Include="CentralitaExcepcion.cs" />
     <Compile Include="CentralTelefonica.cs">
       <SubType>Form</SubType>
     </Compile>

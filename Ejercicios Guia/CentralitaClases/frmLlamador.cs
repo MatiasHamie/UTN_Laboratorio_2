@@ -31,44 +31,54 @@ namespace Ejercicio_40CentralitaClases
             int duracion = random.Next(1, 50);
             float costo = random.Next(5, 56) / 10; //Lo divido por 10 porque no me deja float
 
-            if(txtNroOrigen.Text != "" && txtNroDestino.Text != "")
+            txtNroOrigen.Text = ""; 
+            txtNroDestino.Text = "";
+
+            if (txtNroOrigen.Text != "" && txtNroDestino.Text != "")
             {
-                if (txtNroDestino.Text[0] == '#')
+                try
                 {
-                    //Hay que brindarle los datos a los combo box de esta forma
-                    Provincial provincial;
-                    Provincial.Franja franjas;
-                   
-                    Enum.TryParse<Provincial.Franja>(cmbFranja.SelectedValue.ToString(), out franjas);
-
-                    switch (franjas)
+                    if (txtNroDestino.Text[0] == '#')
                     {
-                        case Provincial.Franja.Franja_1:
-                            provincial = new Provincial(txtNroOrigen.Text, Provincial.Franja.Franja_1, duracion, txtNroDestino.Text);
-                            //centralitaLlamador.Llamadas.Add((Llamada)provincial); si no tuviera la sobrecarga de op haria esto
-                            centralitaLlamador += provincial;
-                            break;
-                        case Provincial.Franja.Franja_2:
-                            provincial = new Provincial(txtNroOrigen.Text, Provincial.Franja.Franja_2, duracion, txtNroDestino.Text);
-                            centralitaLlamador += provincial;
-                            break;
-                        case Provincial.Franja.Franja_3:
-                            provincial = new Provincial(txtNroOrigen.Text, Provincial.Franja.Franja_3, duracion, txtNroDestino.Text);
-                            centralitaLlamador += provincial;
-                            break;
-                        default:
-                            MessageBox.Show("No ingresó Franja válida", "Error", MessageBoxButtons.OK);
-                            break;
-                    }
-                }
-                else
-                {
-                    cmbFranja.Enabled = false;//Deshabilito el comboBox
-                    Local local = new Local(txtNroDestino.Text, duracion, txtNroOrigen.Text, costo);
-                    centralitaLlamador += local;
-                }
+                        //Hay que brindarle los datos a los combo box de esta forma
+                        Provincial provincial;
+                        Provincial.Franja franjas;
 
-                MessageBox.Show("Llamada realizada con éxito..!!","Llamada procesada",MessageBoxButtons.OK,MessageBoxIcon.Information);
+                        Enum.TryParse<Provincial.Franja>(cmbFranja.SelectedValue.ToString(), out franjas);
+
+                        switch (franjas)
+                        {
+                            case Provincial.Franja.Franja_1:
+                                provincial = new Provincial(txtNroOrigen.Text, Provincial.Franja.Franja_1, duracion, txtNroDestino.Text);
+                                //centralitaLlamador.Llamadas.Add((Llamada)provincial); si no tuviera la sobrecarga de op haria esto
+                                centralitaLlamador += provincial;
+                                break;
+                            case Provincial.Franja.Franja_2:
+                                provincial = new Provincial(txtNroOrigen.Text, Provincial.Franja.Franja_2, duracion, txtNroDestino.Text);
+                                centralitaLlamador += provincial;
+                                break;
+                            case Provincial.Franja.Franja_3:
+                                provincial = new Provincial(txtNroOrigen.Text, Provincial.Franja.Franja_3, duracion, txtNroDestino.Text);
+                                centralitaLlamador += provincial;
+                                break;
+                            default:
+                                MessageBox.Show("No ingresó Franja válida", "Error", MessageBoxButtons.OK);
+                                break;
+                        }
+                    }
+                    else
+                    {
+                        cmbFranja.Enabled = false;//Deshabilito el comboBox
+                        Local local = new Local(txtNroDestino.Text, duracion, txtNroOrigen.Text, costo);
+                        centralitaLlamador += local;
+                    }
+
+                    MessageBox.Show("Llamada realizada con éxito..!!", "Llamada procesada", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                catch (CentralitaExcepcion)
+                {
+                    MessageBox.Show("La llamada ya existe", "Error", MessageBoxButtons.OK, MessageBoxIcon.Hand);
+                }
             }
             else
             {

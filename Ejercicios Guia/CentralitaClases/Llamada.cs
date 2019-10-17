@@ -13,11 +13,17 @@ namespace Ejercicio_40CentralitaClases
         #endregion
 
         #region Propiedades
-        public enum TipoLlamada { Local, Provincial, Todas };
         public float Duracion { get { return duracion; } }
         public string NroDestino { get { return nroDestino; } }
         public string NroOrigen { get { return nroOrigen; } }
         public abstract float CostoLlamada { get; }
+        #endregion
+
+        #region Enumerado
+        public enum TipoLlamada
+        {
+            Local, Provincial, Todas
+        }
         #endregion
 
         #region Constructores
