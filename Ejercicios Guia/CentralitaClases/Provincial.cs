@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Ejercicio_40CentralitaClases
 {
-    class Provincial: Llamada
+    public class Provincial: Llamada
     {
         #region Campos
         private Franja franja;

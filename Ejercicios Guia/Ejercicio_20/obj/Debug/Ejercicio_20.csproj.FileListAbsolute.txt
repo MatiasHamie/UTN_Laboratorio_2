@@ -5,3 +5,10 @@ C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_20
 C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_20\obj\Debug\Ejercicio_20.csproj.CoreCompileInputs.cache
 C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_20\obj\Debug\Ejercicio_20.exe
 C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_20\obj\Debug\Ejercicio_20.pdb
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_20\bin\Debug\Ejercicio_20.exe.config
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_20\bin\Debug\Ejercicio_20.exe
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_20\bin\Debug\Ejercicio_20.pdb
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_20\obj\Debug\Ejercicio_20.csprojAssemblyReference.cache
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_20\obj\Debug\Ejercicio_20.csproj.CoreCompileInputs.cache
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_20\obj\Debug\Ejercicio_20.exe
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_20\obj\Debug\Ejercicio_20.pdb

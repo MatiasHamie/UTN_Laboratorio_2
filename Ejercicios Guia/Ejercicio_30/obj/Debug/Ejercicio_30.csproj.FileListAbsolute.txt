@@ -5,3 +5,10 @@ C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_30
 C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_30\obj\Debug\Ejercicio_30.csproj.CoreCompileInputs.cache
 C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_30\obj\Debug\Ejercicio_30.exe
 C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_30\obj\Debug\Ejercicio_30.pdb
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_30\bin\Debug\Ejercicio_30.exe.config
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_30\bin\Debug\Ejercicio_30.exe
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_30\bin\Debug\Ejercicio_30.pdb
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_30\obj\Debug\Ejercicio_30.csprojAssemblyReference.cache
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_30\obj\Debug\Ejercicio_30.csproj.CoreCompileInputs.cache
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_30\obj\Debug\Ejercicio_30.exe
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_30\obj\Debug\Ejercicio_30.pdb

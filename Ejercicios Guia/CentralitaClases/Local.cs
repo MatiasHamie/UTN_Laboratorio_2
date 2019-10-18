@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Ejercicio_40CentralitaClases
 {
-    class Local : Llamada
+    public class Local : Llamada
     {
         #region Campos
         protected float costo;

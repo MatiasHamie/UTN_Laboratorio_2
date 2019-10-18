@@ -1,0 +1,7 @@
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_6\bin\Debug\Ejercicio_6.exe.config
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_6\bin\Debug\Ejercicio_6.exe
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_6\bin\Debug\Ejercicio_6.pdb
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_6\obj\Debug\Ejercicio_06.csprojAssemblyReference.cache
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_6\obj\Debug\Ejercicio_06.csproj.CoreCompileInputs.cache
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_6\obj\Debug\Ejercicio_6.exe
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_6\obj\Debug\Ejercicio_6.pdb

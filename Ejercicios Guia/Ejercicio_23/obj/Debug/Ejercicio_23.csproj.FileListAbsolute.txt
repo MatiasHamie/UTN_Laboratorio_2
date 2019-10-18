@@ -7,3 +7,12 @@ C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_23
 C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_23\obj\Debug\Moneda.Properties.Resources.resources
 C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_23\bin\Debug\Ejercicio_23.exe
 C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_23\obj\Debug\Ejercicio_23.exe
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_23\bin\Debug\Ejercicio_23.exe
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_23\bin\Debug\Ejercicio_23.pdb
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_23\obj\Debug\Ejercicio_23.csprojAssemblyReference.cache
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_23\obj\Debug\Moneda.Conversor.resources
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_23\obj\Debug\Moneda.Properties.Resources.resources
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_23\obj\Debug\Ejercicio_23.csproj.GenerateResource.cache
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_23\obj\Debug\Ejercicio_23.csproj.CoreCompileInputs.cache
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_23\obj\Debug\Ejercicio_23.exe
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_23\obj\Debug\Ejercicio_23.pdb

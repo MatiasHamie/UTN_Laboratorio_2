@@ -1,0 +1,6 @@
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_7\bin\Debug\Ejercicio_7.exe.config
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_7\bin\Debug\Ejercicio_7.exe
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_7\bin\Debug\Ejercicio_7.pdb
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_7\obj\Debug\Ejercicio_07.csproj.CoreCompileInputs.cache
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_7\obj\Debug\Ejercicio_7.exe
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_7\obj\Debug\Ejercicio_7.pdb
