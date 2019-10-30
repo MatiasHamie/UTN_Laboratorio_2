@@ -1,0 +1,6 @@
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de ejemplo\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.csprojAssemblyReference.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de ejemplo\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.exe.config
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de ejemplo\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.Properties.Resources.resources
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de ejemplo\ComiqueriaApp\VentasForm\obj\Debug\ComiqueriaApp.VentasForm.resources
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de ejemplo\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.csproj.GenerateResource.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de ejemplo\ComiqueriaApp\VentasForm\obj\Debug\VentasForm.csproj.CoreCompileInputs.cache

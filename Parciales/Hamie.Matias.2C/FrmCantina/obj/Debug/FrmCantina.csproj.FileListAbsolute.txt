@@ -1,0 +1,45 @@
+D:\Hamie.Matias.2C\FrmCantina\bin\Debug\FrmCantina.exe.config
+D:\Hamie.Matias.2C\FrmCantina\bin\Debug\FrmCantina.exe
+D:\Hamie.Matias.2C\FrmCantina\bin\Debug\FrmCantina.pdb
+D:\Hamie.Matias.2C\FrmCantina\bin\Debug\ControlesUsuario.dll
+D:\Hamie.Matias.2C\FrmCantina\bin\Debug\Entidades.dll
+D:\Hamie.Matias.2C\FrmCantina\bin\Debug\ControlesUsuario.pdb
+D:\Hamie.Matias.2C\FrmCantina\bin\Debug\Entidades.pdb
+D:\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.csprojAssemblyReference.cache
+D:\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.Form1.resources
+D:\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.Properties.Resources.resources
+D:\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.csproj.GenerateResource.cache
+D:\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.csproj.CoreCompileInputs.cache
+D:\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.csproj.CopyComplete
+D:\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.exe
+D:\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales\Hamie.Matias.2C\FrmCantina\bin\Debug\FrmCantina.exe.config
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales\Hamie.Matias.2C\FrmCantina\bin\Debug\FrmCantina.exe
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales\Hamie.Matias.2C\FrmCantina\bin\Debug\FrmCantina.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales\Hamie.Matias.2C\FrmCantina\bin\Debug\ControlesUsuario.dll
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales\Hamie.Matias.2C\FrmCantina\bin\Debug\Entidades.dll
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales\Hamie.Matias.2C\FrmCantina\bin\Debug\ControlesUsuario.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales\Hamie.Matias.2C\FrmCantina\bin\Debug\Entidades.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.csprojAssemblyReference.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.Form1.resources
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.Properties.Resources.resources
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.csproj.GenerateResource.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.csproj.CoreCompileInputs.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.csproj.CopyComplete
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.exe
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.pdb
+D:\MH\UTN_Laboratorio_2\Parciales\Hamie.Matias.2C\FrmCantina\bin\Debug\FrmCantina.exe.config
+D:\MH\UTN_Laboratorio_2\Parciales\Hamie.Matias.2C\FrmCantina\bin\Debug\FrmCantina.exe
+D:\MH\UTN_Laboratorio_2\Parciales\Hamie.Matias.2C\FrmCantina\bin\Debug\FrmCantina.pdb
+D:\MH\UTN_Laboratorio_2\Parciales\Hamie.Matias.2C\FrmCantina\bin\Debug\ControlesUsuario.dll
+D:\MH\UTN_Laboratorio_2\Parciales\Hamie.Matias.2C\FrmCantina\bin\Debug\Entidades.dll
+D:\MH\UTN_Laboratorio_2\Parciales\Hamie.Matias.2C\FrmCantina\bin\Debug\ControlesUsuario.pdb
+D:\MH\UTN_Laboratorio_2\Parciales\Hamie.Matias.2C\FrmCantina\bin\Debug\Entidades.pdb
+D:\MH\UTN_Laboratorio_2\Parciales\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.csprojAssemblyReference.cache
+D:\MH\UTN_Laboratorio_2\Parciales\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.Form1.resources
+D:\MH\UTN_Laboratorio_2\Parciales\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.Properties.Resources.resources
+D:\MH\UTN_Laboratorio_2\Parciales\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.csproj.GenerateResource.cache
+D:\MH\UTN_Laboratorio_2\Parciales\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.csproj.CoreCompileInputs.cache
+D:\MH\UTN_Laboratorio_2\Parciales\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.csproj.CopyComplete
+D:\MH\UTN_Laboratorio_2\Parciales\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.exe
+D:\MH\UTN_Laboratorio_2\Parciales\Hamie.Matias.2C\FrmCantina\obj\Debug\FrmCantina.pdb

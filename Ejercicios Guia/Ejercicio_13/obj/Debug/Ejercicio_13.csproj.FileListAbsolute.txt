@@ -5,3 +5,9 @@ C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_13
 C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_13\obj\Debug\Ejercicio_13.csproj.CoreCompileInputs.cache
 C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_13\obj\Debug\Ejercicio_13.exe
 C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\Ejercicio_13\obj\Debug\Ejercicio_13.pdb
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_13\bin\Debug\Ejercicio_13.exe.config
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_13\bin\Debug\Ejercicio_13.exe
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_13\bin\Debug\Ejercicio_13.pdb
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_13\obj\Debug\Ejercicio_13.csproj.CoreCompileInputs.cache
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_13\obj\Debug\Ejercicio_13.exe
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio_13\obj\Debug\Ejercicio_13.pdb
