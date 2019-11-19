@@ -1,0 +1,7 @@
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\PracticaArchivos\ProbandoArchivos\ProbandoArchivos\bin\Debug\ProbandoArchivos.exe.config
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\PracticaArchivos\ProbandoArchivos\ProbandoArchivos\bin\Debug\ProbandoArchivos.exe
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\PracticaArchivos\ProbandoArchivos\ProbandoArchivos\bin\Debug\ProbandoArchivos.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\PracticaArchivos\ProbandoArchivos\ProbandoArchivos\obj\Debug\ProbandoArchivos.csprojAssemblyReference.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\PracticaArchivos\ProbandoArchivos\ProbandoArchivos\obj\Debug\ProbandoArchivos.csproj.CoreCompileInputs.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\PracticaArchivos\ProbandoArchivos\ProbandoArchivos\obj\Debug\ProbandoArchivos.exe
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\PracticaArchivos\ProbandoArchivos\ProbandoArchivos\obj\Debug\ProbandoArchivos.pdb

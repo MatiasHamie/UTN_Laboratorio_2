@@ -1,0 +1,7 @@
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Teoria\Prueba_SQL_conThiago\Prueba_SQL_conThiago\bin\Debug\Prueba_SQL_conThiago.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Teoria\Prueba_SQL_conThiago\Prueba_SQL_conThiago\obj\Debug\Prueba_SQL_conThiago.csprojAssemblyReference.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Teoria\Prueba_SQL_conThiago\Prueba_SQL_conThiago\obj\Debug\Prueba_SQL_conThiago.csproj.CoreCompileInputs.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Teoria\Prueba_SQL_conThiago\Prueba_SQL_conThiago\obj\Debug\Prueba_SQL_conThiago.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Teoria\Prueba_SQL_conThiago\Prueba_SQL_conThiago\bin\Debug\Prueba_SQL_conThiago.dll.config
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Teoria\Prueba_SQL_conThiago\Prueba_SQL_conThiago\bin\Debug\Prueba_SQL_conThiago.dll
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Teoria\Prueba_SQL_conThiago\Prueba_SQL_conThiago\obj\Debug\Prueba_SQL_conThiago.dll

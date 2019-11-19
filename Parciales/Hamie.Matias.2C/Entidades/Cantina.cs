@@ -11,7 +11,7 @@ namespace Entidades
         #region Campos
         private List<Botella> botellas;
         private int espaciosTotales;
-        private  static Cantina singleton;
+        private static Cantina singleton;
         #endregion
 
         #region Propiedades

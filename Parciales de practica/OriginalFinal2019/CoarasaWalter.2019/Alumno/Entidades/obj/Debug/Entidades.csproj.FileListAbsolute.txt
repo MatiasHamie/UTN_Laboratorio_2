@@ -1,0 +1,6 @@
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20190711-Final\Entidades\obj\Debug\Entidades.pdb
