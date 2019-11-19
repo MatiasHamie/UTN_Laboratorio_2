@@ -109,22 +109,38 @@ namespace Ejercicio_40CentralitaClases
         #region Sobrecarga de operadores
         public static Centralita operator +(Centralita c, Llamada nuevaLlamada)
         {
+            if (c != nuevaLlamada) 
+            {
+                c.AgregarLlamada(nuevaLlamada);
+            }
+            else
+            {
+                throw new CentralitaExcepcion("La llamada ya se encuentra registrada","Centralita","Sobrecarga operador +");
+            }
+
+
+            return c;
+        }
+
+        public static bool operator ==(Centralita c, Llamada llamada)
+        {
             bool esta = false;
+
             foreach (Llamada llamadaAux in c.listaDeLlamadas)
             {
-                if(llamadaAux == nuevaLlamada)
+                if (llamadaAux.Equals(llamada))
                 {
                     esta = true;
                     break;
                 }
             }
 
-            if (esta == false)
-            {
-                c.AgregarLlamada(nuevaLlamada);
-            }
+            return esta;
+        }
 
-            return c;
+        public static bool operator !=(Centralita c, Llamada llamada)
+        {
+            return !(c == llamada);
         }
         #endregion
     }

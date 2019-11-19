@@ -77,14 +77,8 @@ namespace Entidades
             //if(c.espaciosTotales > 1)
             if (c.espaciosTotales > c.Botellas.Count)
             {
-                //foreach (Botella botella in c.botellas)
-                //{
-                    //if (!(c.botellas.Contains(b)))
-                   // {
-                        c.botellas.Add(b);
-                        return true;
-                   // }
-               // }
+                c.botellas.Add(b);
+                return true;
             }
 
             return false;

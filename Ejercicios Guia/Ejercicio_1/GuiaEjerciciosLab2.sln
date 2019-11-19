@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29215.179
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_01", "Ejercicio_01.csproj", "{999F1ADE-0963-4943-9BA4-A9EBA83C3C5D}"
 EndProject
@@ -49,16 +49,23 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_28", "..\Ejercici
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_29", "..\Ejercicio_29\Ejercicio_29.csproj", "{95B842CB-95BB-4D23-BBA3-9EFD75E6FC13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_30", "..\Ejercicio_30\Ejercicio_30.csproj", "{56CB0717-7BD1-40A0-95FE-02D77EDDC57E}"
+<<<<<<< HEAD
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_30_36", "..\Ejercicio_30\Ejercicio_30_36.csproj", "{56CB0717-7BD1-40A0-95FE-02D77EDDC57E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_31", "..\Ejercicio_31\Ejercicio_31.csproj", "{50F8CB3F-2161-4201-AFEE-8DAFE4CACA52}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_37_CentralitaHerencia", "..\..\CentralTelefonica\CentralitaHerencia\Ejercicio_37_CentralitaHerencia.csproj", "{327A87C7-BEC9-4443-990C-B89E7A2C7ADE}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_34", "..\Ejercicio_34\Ejercicio_34.csproj", "{4E0D268F-C259-4219-BCCF-039845626CB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_40CentralitaClases", "..\CentralitaClases\Ejercicio_40CentralitaClases.csproj", "{64A5DE94-FF5C-47F4-B0CF-1D1C27637CD3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_40y41CentralitaCExcepciones", "..\CentralitaClases\Ejercicio_40y41CentralitaCExcepciones.csproj", "{64A5DE94-FF5C-47F4-B0CF-1D1C27637CD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_44_TUCentralita", "..\Ejercicio_44_TUCentralita\Ejercicio_44_TUCentralita.csproj", "{944460B6-2242-43C4-A053-FCACCB33E820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_47", "Ejercicio_47\Ejercicio_47.csproj", "{232F652D-3F0D-46F0-9966-9F8A6BD3EC81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio47_Console", "..\Ejercicio47_Console\Ejercicio47_Console.csproj", "{EC8B92B1-A6DF-4505-9E07-04538F96D3DA}"
+EndProject
+>>>>>>> 543b25a720f1129ddc152a2a199c536bac98230a
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -157,6 +164,8 @@ Global
 		{95B842CB-95BB-4D23-BBA3-9EFD75E6FC13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95B842CB-95BB-4D23-BBA3-9EFD75E6FC13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95B842CB-95BB-4D23-BBA3-9EFD75E6FC13}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+=======
 		{56CB0717-7BD1-40A0-95FE-02D77EDDC57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{56CB0717-7BD1-40A0-95FE-02D77EDDC57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56CB0717-7BD1-40A0-95FE-02D77EDDC57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -165,10 +174,6 @@ Global
 		{50F8CB3F-2161-4201-AFEE-8DAFE4CACA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50F8CB3F-2161-4201-AFEE-8DAFE4CACA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50F8CB3F-2161-4201-AFEE-8DAFE4CACA52}.Release|Any CPU.Build.0 = Release|Any CPU
-		{327A87C7-BEC9-4443-990C-B89E7A2C7ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{327A87C7-BEC9-4443-990C-B89E7A2C7ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{327A87C7-BEC9-4443-990C-B89E7A2C7ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{327A87C7-BEC9-4443-990C-B89E7A2C7ADE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4E0D268F-C259-4219-BCCF-039845626CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4E0D268F-C259-4219-BCCF-039845626CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E0D268F-C259-4219-BCCF-039845626CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -177,6 +182,19 @@ Global
 		{64A5DE94-FF5C-47F4-B0CF-1D1C27637CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64A5DE94-FF5C-47F4-B0CF-1D1C27637CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64A5DE94-FF5C-47F4-B0CF-1D1C27637CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{944460B6-2242-43C4-A053-FCACCB33E820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944460B6-2242-43C4-A053-FCACCB33E820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944460B6-2242-43C4-A053-FCACCB33E820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944460B6-2242-43C4-A053-FCACCB33E820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{232F652D-3F0D-46F0-9966-9F8A6BD3EC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232F652D-3F0D-46F0-9966-9F8A6BD3EC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232F652D-3F0D-46F0-9966-9F8A6BD3EC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232F652D-3F0D-46F0-9966-9F8A6BD3EC81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC8B92B1-A6DF-4505-9E07-04538F96D3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8B92B1-A6DF-4505-9E07-04538F96D3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8B92B1-A6DF-4505-9E07-04538F96D3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8B92B1-A6DF-4505-9E07-04538F96D3DA}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 543b25a720f1129ddc152a2a199c536bac98230a
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

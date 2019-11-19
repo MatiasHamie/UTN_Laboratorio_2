@@ -177,14 +177,14 @@
             this.barra1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("barra1.BackgroundImage")));
             this.barra1.Location = new System.Drawing.Point(13, 12);
             this.barra1.Name = "barra1";
-            this.barra1.Size = new System.Drawing.Size(550, 302);
+            this.barra1.Size = new System.Drawing.Size(595, 302);
             this.barra1.TabIndex = 12;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(579, 414);
+            this.ClientSize = new System.Drawing.Size(620, 414);
             this.Controls.Add(this.barra1);
             this.Controls.Add(this.txtMarca);
             this.Controls.Add(this.lblContenido);

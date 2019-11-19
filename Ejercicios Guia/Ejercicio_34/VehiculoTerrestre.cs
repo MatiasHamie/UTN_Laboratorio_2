@@ -25,7 +25,7 @@ namespace Ejercicio_34
         #endregion
 
         #region Métodos
-        public Mostrar()
+        public string Mostrar()
         {
             StringBuilder strBldr = new StringBuilder();
             strBldr.AppendLine("\n-- Vehículo --\n");

@@ -1,0 +1,42 @@
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_21\bin\Debug\Clase_10.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_21\obj\Debug\Clase_10.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_21\obj\Debug\Clase_10.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_21\bin\Debug\Clase_10.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_21\bin\Debug\Clase_10.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_21\bin\Debug\Clase_10.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_21\bin\Debug\Clase_21.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_21\bin\Debug\Clase_21.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_21\obj\Debug\Clase_21.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_21\obj\Debug\Clase_8.frmEmpleado.resources
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_21\obj\Debug\Clase_8.frmEmpresa.resources
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_21\obj\Debug\Clase_10.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_21\obj\Debug\Clase_21.csproj.GenerateResource.Cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_21\obj\Debug\Clase_10.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_21\obj\Debug\Clase_10.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_21\Clase_21\bin\Debug\Clase_10.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_21\Clase_21\obj\Debug\Clase_10.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_21\Clase_21\obj\Debug\Clase_10.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_21\Clase_21\bin\Debug\Clase_10.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_21\Clase_21\bin\Debug\Clase_10.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_21\Clase_21\bin\Debug\Clase_21.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_21\Clase_21\bin\Debug\Clase_21.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_21\Clase_21\obj\Debug\Clase_21.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_21\Clase_21\obj\Debug\Clase_8.frmEmpleado.resources
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_21\Clase_21\obj\Debug\Clase_8.frmEmpresa.resources
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_21\Clase_21\obj\Debug\Clase_10.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_21\Clase_21\obj\Debug\Clase_21.csproj.GenerateResource.Cache
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21\bin\Debug\Clase_10.exe.config
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21\bin\Debug\Clase_10.exe
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21\bin\Debug\Clase_10.pdb
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21\bin\Debug\Clase_21.dll
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21\bin\Debug\Clase_21.pdb
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21\bin\Debug\Clase_21.dll.config
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21\obj\Debug\Clase_21.csprojAssemblyReference.cache
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21\obj\Debug\Clase_8.frmEmpleado.resources
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21\obj\Debug\Clase_8.frmEmpresa.resources
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21\obj\Debug\Clase_10.Properties.Resources.resources
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21\obj\Debug\Clase_21.csproj.GenerateResource.cache
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21\obj\Debug\Clase_21.csproj.CoreCompileInputs.cache
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21\obj\Debug\Clase_21.csproj.CopyComplete
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21\obj\Debug\Clase_10.exe
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21\obj\Debug\Clase_10.pdb

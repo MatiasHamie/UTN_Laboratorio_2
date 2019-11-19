@@ -6,62 +6,29 @@ using System.Threading.Tasks;
 
 namespace Ejercicio_30
 {
-    class AutoF1
+    class AutoF1:VehiculoDeCarrera
     {
-        #region Campos
-        private short cantidadCombustible;
-        private short numero;
-        private short vueltasRestantes;
-        private bool enCompetencia;
-        private string escuderia;
-        #endregion
+        private short caballosDeFuerza;
 
-        #region Getters y Setters
-        public short GetCantidadCombustible()
+        #region Propiedades
+        public short CaballosDeFuerza
         {
-            return this.cantidadCombustible;
+            get { return this.caballosDeFuerza; }
+            set { caballosDeFuerza = value; }
         }
-
-        public void SetCantidadCombustible(short cantidadCombustible)
-        {
-            this.cantidadCombustible = cantidadCombustible;
-        }
-
-        public short GetVueltasRestantes()
-        {
-            return this.vueltasRestantes;
-        }
-
-        public void SetVueltasRestantes(short vueltasRestantes)
-        {
-            this.vueltasRestantes = vueltasRestantes;
-        }
-
-        public bool GetEnCompetencia()
-        {
-            return this.enCompetencia;
-        }
-
-        public void SetEnCompetencia(bool enCompetencia)
-        {
-            this.enCompetencia = enCompetencia;
-        }
-
-
         #endregion
 
         #region Constructor
         public AutoF1(short numero, string escuderia)
+            :base(numero,escuderia)
         {
-            this.numero = numero;
-            this.escuderia = escuderia;
         }
         #endregion
 
         #region Sobrecarga de Operadores
         public static bool operator ==(AutoF1 a1, AutoF1 a2)
         {
-            return (a1.escuderia == a2.escuderia) && (a1.numero == a2.numero);
+            return (a1.Escuderia == a2.Escuderia) && (a1.Numero == a2.Numero);
         }
 
         public static bool operator !=(AutoF1 a1, AutoF1 a2)
@@ -71,13 +38,13 @@ namespace Ejercicio_30
         #endregion
 
         #region Métodos
-        public string MostrarDatos()
+        public override string MostrarDatos()
         {
-            StringBuilder stringBuilder = new StringBuilder();
-            stringBuilder.AppendFormat("Escuderia: {0}, Numero: {1}, Cant. Combustible: {2} ", this.escuderia, this.numero, this.cantidadCombustible);
-            stringBuilder.Append(this.enCompetencia ? "En Competencia: Si" : "En Competencia: No");
+            StringBuilder cadena = new StringBuilder(base.MostrarDatos());
 
-            return stringBuilder.ToString();
+            cadena.AppendFormat($"Caballos de fuerza: {this.caballosDeFuerza}\n");
+
+            return cadena.ToString();
         }
         #endregion
     }

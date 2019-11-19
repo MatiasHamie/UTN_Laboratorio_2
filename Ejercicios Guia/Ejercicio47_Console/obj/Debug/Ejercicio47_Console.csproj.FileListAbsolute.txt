@@ -1,0 +1,10 @@
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio47_Console\bin\Debug\Ejercicio47_Console.exe.config
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio47_Console\bin\Debug\Ejercicio47_Console.exe
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio47_Console\bin\Debug\Ejercicio47_Console.pdb
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio47_Console\bin\Debug\Ejercicio_47.dll
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio47_Console\bin\Debug\Ejercicio_47.pdb
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio47_Console\obj\Debug\Ejercicio47_Console.csprojAssemblyReference.cache
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio47_Console\obj\Debug\Ejercicio47_Console.csproj.CoreCompileInputs.cache
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio47_Console\obj\Debug\Ejercicio47_Console.csproj.CopyComplete
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio47_Console\obj\Debug\Ejercicio47_Console.exe
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\Ejercicio47_Console\obj\Debug\Ejercicio47_Console.pdb

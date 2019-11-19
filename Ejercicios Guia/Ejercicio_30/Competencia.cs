@@ -6,46 +6,90 @@ using System.Threading.Tasks;
 
 namespace Ejercicio_30
 {
-    class Competencia
+    public class Competencia
     {
         #region Campos
         private short cantidadCompetidores;
         private short cantidadVueltas;
-        private List<AutoF1> competidores;
+        private List<VehiculoDeCarrera> competidores;
+        private TipoCompetencia tipo;
         #endregion
 
+        #region Enumerado
+        public enum TipoCompetencia
+        {
+            F1,
+            MotoCross
+        }
+        #endregion
+        
         #region Constructores
         private Competencia()
         {
-            competidores = new List<AutoF1>();
+            competidores = new List<VehiculoDeCarrera>();
         }
 
-        public Competencia(short cantidadVueltas, short cantidadCompetidores) : this()
+        public Competencia(short cantidadVueltas, short cantidadCompetidores, TipoCompetencia tipo) : this()
         {
             this.cantidadVueltas = cantidadVueltas;
             this.cantidadCompetidores = cantidadCompetidores;
+            this.tipo = tipo;
+        }
+        #endregion
+
+        #region Propiedades
+        public VehiculoDeCarrera this[int index]//Indexador
+        {
+            get
+            { 
+                return competidores[index];
+            }
+        }
+
+        public short CantidadCompetidores
+        {
+            get { return this.cantidadCompetidores; }
+            set { this.cantidadCompetidores = value; }
+        }
+
+        public short CantidadVueltas
+        {
+            get { return this.cantidadVueltas; }
+            set { this.cantidadVueltas = value; }
+        }
+
+        public TipoCompetencia Tipo
+        {
+            get { return this.tipo; }
+            set { this.tipo = value; }
         }
         #endregion
 
         #region Métodos
         public string MostrarDatos()
         {
-            StringBuilder stringBuilder = new StringBuilder();
-            stringBuilder.AppendLine("--- Competencia ---");
-            stringBuilder.AppendFormat("Cant. Competidores: {0}, Cant. Vueltas: {1}\n", this.cantidadCompetidores, this.cantidadVueltas);
-            stringBuilder.AppendLine("- Competidores -");
+            StringBuilder cadena = new StringBuilder();
+            cadena.AppendLine("--- Competencia ---");
+            cadena.AppendFormat("Cant. Competidores: {0}, Cant. Vueltas: {1}\n", this.cantidadCompetidores, this.cantidadVueltas);
 
-            foreach (AutoF1 auxCompetidor in competidores)
+            cadena.AppendLine("- Competidores -");
+            foreach (VehiculoDeCarrera auxCompetidor in competidores)
             {
-                stringBuilder.AppendLine(auxCompetidor.MostrarDatos());
+                if(auxCompetidor is AutoF1)
+                {
+                    cadena.AppendLine(((AutoF1)auxCompetidor).MostrarDatos());
+                }
+                else
+                {
+                    cadena.AppendLine(((MotoCross)auxCompetidor).MostrarDatos());
+                }
             }
-
-            return stringBuilder.ToString();
+            return cadena.ToString();
         }
         #endregion
 
         #region Sobrecarga de operadores
-        public static bool operator +(Competencia c, AutoF1 a)
+        public static bool operator +(Competencia c, VehiculoDeCarrera a)
         {
             bool retorno = false;
             
@@ -53,12 +97,15 @@ namespace Ejercicio_30
             {
                 if (c != a)//Ya al tener el == y != sobrecargados, ahi tengo el for q se fija si ya existe o no el auto
                 {
+                    if(c.tipo == Competencia.TipoCompetencia.MotoCross)
+                    {
 
+                    }
                     c.competidores.Add(a);
                     int indexDelAuto = c.competidores.IndexOf(a);
                     Random random = new Random();
-                    c.competidores[indexDelAuto].SetEnCompetencia(true);
-                    c.competidores[indexDelAuto].SetCantidadCombustible((short)random.Next(15, 100));
+                    c.competidores[indexDelAuto].EnCompetencia = true;
+                    c.competidores[indexDelAuto].CantidadCombustible = ((short)random.Next(15, 100));
                     retorno = true;
                 }
             }
@@ -66,7 +113,7 @@ namespace Ejercicio_30
             return retorno;
         }
 
-        public static bool operator -(Competencia c, AutoF1 a)
+        public static bool operator -(Competencia c, VehiculoDeCarrera a)
         {
             bool retorno = false;
 
@@ -78,7 +125,7 @@ namespace Ejercicio_30
             return retorno;
         }
 
-        public static bool operator ==(Competencia c, AutoF1 a)
+        public static bool operator ==(Competencia c, VehiculoDeCarrera a)
         {
             bool retorno = false;
 
@@ -94,7 +141,7 @@ namespace Ejercicio_30
             return retorno;
         }
 
-        public static bool operator !=(Competencia c, AutoF1 a)
+        public static bool operator !=(Competencia c, VehiculoDeCarrera a)
         {
             return !(c == a);
         }

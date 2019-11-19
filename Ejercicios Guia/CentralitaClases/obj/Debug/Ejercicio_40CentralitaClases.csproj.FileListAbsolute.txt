@@ -8,3 +8,13 @@ C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\CentralitaCl
 C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\CentralitaClases\obj\Debug\Ejercicio_40CentralitaClases.pdb
 C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\CentralitaClases\bin\Debug\Ejercicio_40CentralitaClases.exe
 C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Ejercicios Guia\CentralitaClases\obj\Debug\Ejercicio_40CentralitaClases.exe
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\CentralitaClases\bin\Debug\Ejercicio_40CentralitaClases.exe
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\CentralitaClases\bin\Debug\Ejercicio_40CentralitaClases.pdb
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\CentralitaClases\obj\Debug\Ejercicio_40CentralitaClases.csprojAssemblyReference.cache
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\CentralitaClases\obj\Debug\Ejercicio_40CentralitaClases.CentralTelefonica.resources
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\CentralitaClases\obj\Debug\Ejercicio_40CentralitaClases.FrmLlamador.resources
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\CentralitaClases\obj\Debug\Ejercicio_40CentralitaClases.FrmMostrar.resources
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\CentralitaClases\obj\Debug\Ejercicio_40CentralitaClases.csproj.GenerateResource.cache
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\CentralitaClases\obj\Debug\Ejercicio_40CentralitaClases.csproj.CoreCompileInputs.cache
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\CentralitaClases\obj\Debug\Ejercicio_40CentralitaClases.exe
+D:\MH\UTN_Laboratorio_2\Ejercicios Guia\CentralitaClases\obj\Debug\Ejercicio_40CentralitaClases.pdb

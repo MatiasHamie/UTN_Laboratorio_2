@@ -1,0 +1,18 @@
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_21_Library\bin\Debug\Clase_10_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_21_Library\bin\Debug\Clase_10_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_21_Library\obj\Debug\Clase_21_Library.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_21_Library\obj\Debug\Clase_10_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_21_Library\obj\Debug\Clase_10_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_21_Library\obj\Debug\Clase_21_Library.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_21_Library\bin\Debug\Clase_21.dll.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_21_Library\bin\Debug\Clase_21.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_21_Library\bin\Debug\Clase_21.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_21_Library\obj\Debug\Clase_21.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clases Campus\Clase_21_Library\obj\Debug\Clase_21.pdb
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21_Library\bin\Debug\Clase_21.dll.config
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21_Library\bin\Debug\Clase_21.dll
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21_Library\bin\Debug\Clase_21.pdb
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21_Library\obj\Debug\Clase_21_Library.csprojAssemblyReference.cache
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21_Library\obj\Debug\Clase_21_Library.csproj.CoreCompileInputs.cache
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21_Library\obj\Debug\Clase_21.dll
+D:\MH\UTN_Laboratorio_2\Teoria\Clase_21\Clase_21_Library\obj\Debug\Clase_21.pdb

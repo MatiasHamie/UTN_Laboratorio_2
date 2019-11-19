@@ -1,0 +1,3 @@
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
