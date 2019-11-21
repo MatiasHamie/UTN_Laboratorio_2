@@ -3,3 +3,9 @@ D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP.v1\Entidades\bin\Debug\En
 D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP.v1\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP.v1\Entidades\obj\Debug\Entidades.dll
 D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP.v1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\Entidades\obj\Debug\Entidades.pdb

@@ -1,3 +1,20 @@
 D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
 D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
 D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.Alumno.csprojAssemblyReference.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\_20180628_SP.v1.FrmSenadores.resources
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\_20180628_SP.v1.Properties.Resources.resources
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.Alumno.csproj.GenerateResource.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.Alumno.csproj.CoreCompileInputs.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Archivos.dll
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Entidades.dll
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Excepciones.dll
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Archivos.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Entidades.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Excepciones.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20180628 - SP Lab II\20180628 - SP Lab II\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.Alumno.csproj.CopyComplete

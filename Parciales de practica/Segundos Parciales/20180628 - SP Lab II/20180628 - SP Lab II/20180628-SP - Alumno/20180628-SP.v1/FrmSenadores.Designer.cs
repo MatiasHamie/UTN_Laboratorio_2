@@ -190,6 +190,7 @@
             this.Name = "FrmSenadores";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Nombre Apellido 2ºC";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmSenadores_FormClosing);
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             this.ResumeLayout(false);

@@ -5,10 +5,13 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
 using Entidades;
+using Archivos;
+using Excepciones;
 
 namespace _20180628_SP.v1
 {
@@ -17,6 +20,10 @@ namespace _20180628_SP.v1
         Votacion votacion;
         Dictionary<string, Votacion.EVoto> participantes;
         List<PictureBox> graficos;
+
+        #region Agrego Thread
+        Thread t;
+        #endregion
 
         public FrmSenadores()
         {
@@ -51,7 +58,7 @@ namespace _20180628_SP.v1
         {
             if (this.groupBox2.InvokeRequired)
             {
-                Votacion.NOMBRE_EVENTO recall = new Votacion.NOMBRE_EVENTO(this.ManejadorVoto);
+                Votacion.Voto recall = new Votacion.Voto(this.ManejadorVoto);
                 this.Invoke(recall, new object[] { senador, voto });
             }
             else
@@ -88,6 +95,31 @@ namespace _20180628_SP.v1
                     MessageBox.Show((int.Parse(lblAfirmativo.Text) - int.Parse(lblNegativo.Text)) > 0 ? "Es Ley" : "No es Ley", txtLeyNombre.Text);
                     // Guardar resultados
 
+                    //---SQL---
+                    try
+                    {
+                        Dao dao = new Dao();
+                        dao.Guardar("", this.votacion);
+                    }
+                    catch (Exception e)
+                    {
+                        throw new Exception("Error al guardar BD", e);
+                    }
+
+                    //---XML---
+                    try
+                    {
+                        SerializarXML<Votacion> xml = new SerializarXML<Votacion>();
+                        xml.Guardar("Votacion.xml", this.votacion);
+                    }
+                    catch (ErrorArchivoException e)
+                    {
+                        throw new Exception("Error al guarda XML", e);
+                    }
+                    catch (Exception)
+                    {
+                        throw;
+                    }
                 }
             }
         }
@@ -107,9 +139,20 @@ namespace _20180628_SP.v1
             lblAbstenciones.Text = "0";
 
             // EVENTO
+            votacion.EventoVotoEfectuado += ManejadorVoto;
 
             // THREAD
+            t = new Thread(votacion.Simular);
+            t.Start();
+        }
 
+        private void FrmSenadores_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (!(t is null))
+            {
+                t.Abort();
+            }
+            
         }
     }
 }

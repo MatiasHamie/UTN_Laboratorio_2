@@ -89,7 +89,7 @@
       <Name>Entidades</Name>
     </ProjectReference>
     <ProjectReference Include="..\VistaPatentes\VistaPatentes.csproj">
-      <Project>{25725883-BE90-47AA-B01C-B213EC1EF8D1}</Project>
+      <Project>{25725883-be90-47aa-b01c-b213ec1ef8d1}</Project>
       <Name>VistaPatentes</Name>
     </ProjectReference>
   </ItemGroup>

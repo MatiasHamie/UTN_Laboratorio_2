@@ -51,8 +51,6 @@ namespace PracticaSP
         private void Button1_Click(object sender, EventArgs e)
         {
             MostrarModal.InvocarModal("Mensaje desde el boton");
-
-            
         }
 
         private void Button2_Click(object sender, EventArgs e)

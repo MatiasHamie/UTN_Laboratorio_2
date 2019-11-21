@@ -20,3 +20,16 @@ D:\Federico\VB .Net\Visual C#\Patentes\Patentes - SP\VistaPatentes\obj\Debug\Vis
 D:\Federico\VB .Net\Visual C#\Patentes\Patentes - SP\VistaPatentes\obj\Debug\VistaPatentes.csproj.CoreCompileInputs.cache
 D:\Federico\VB .Net\Visual C#\Patentes\Patentes - SP\VistaPatentes\obj\Debug\VistaPatentes.dll
 D:\Federico\VB .Net\Visual C#\Patentes\Patentes - SP\VistaPatentes\obj\Debug\VistaPatentes.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20181122 - SP Lab II\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csprojAssemblyReference.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20181122 - SP Lab II\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.Properties.Resources.resources
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20181122 - SP Lab II\20181122-SP\Alumno\VistaPatentes\obj\Debug\Patentes.VistaPatente.resources
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20181122 - SP Lab II\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csproj.GenerateResource.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20181122 - SP Lab II\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csproj.CoreCompileInputs.cache
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20181122 - SP Lab II\20181122-SP\Alumno\VistaPatentes\bin\Debug\VistaPatentes.dll.config
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20181122 - SP Lab II\20181122-SP\Alumno\VistaPatentes\bin\Debug\VistaPatentes.dll
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20181122 - SP Lab II\20181122-SP\Alumno\VistaPatentes\bin\Debug\VistaPatentes.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20181122 - SP Lab II\20181122-SP\Alumno\VistaPatentes\bin\Debug\Entidades.dll
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20181122 - SP Lab II\20181122-SP\Alumno\VistaPatentes\bin\Debug\Entidades.pdb
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20181122 - SP Lab II\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csproj.CopyComplete
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20181122 - SP Lab II\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.dll
+C:\Users\yotut\Desktop\Programming\C#\Laboratorio 2\Parciales de practica\Segundos Parciales\20181122 - SP Lab II\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.pdb

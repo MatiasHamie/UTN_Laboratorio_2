@@ -25,7 +25,8 @@ namespace Prueba_SQL_conThiago
         public void Invocar(object mensaje)
         {
             string[] array = (string[])mensaje;
-            this.nuevoEvento.Invoke(array[0].ToString());
+            //this.nuevoEvento.Invoke(array[0].ToString());
+            this.nuevoEvento(array[0].ToString());
         }
     }
 }
